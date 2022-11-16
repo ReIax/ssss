@@ -23,8 +23,9 @@ I am a 19 y/o developer, Currently in the CS degree </br>
 <img align="left" alt="Css" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
 
 
-
-<h1 align="center"> 📊Profile Stats </h1>
+## 📊Profile Stats 
+<p align="center">
+</p>
 
 
 # <table width="100%" align="center">
