@@ -22,12 +22,10 @@ I am a 19 y/o developer, Currently in the CS degree </br>
 <img align="left" alt="Java" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
 <img align="left" alt="Css" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
 </img>
-</p>
 
 
 
-
-## 📊Profile Stats
+# <h1 align="center"> 📊Profile Stats </h1>
 
 
 <table width="100%" align="center">
@@ -43,8 +41,6 @@ I am a 19 y/o developer, Currently in the CS degree </br>
   <a href="https://github.com/yukkidev/yt-playlist-to-mp3"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yukkidev&repo=button_paginator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
 
 
-
-</p>
 
 
 ## Socials
