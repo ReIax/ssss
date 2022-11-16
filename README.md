@@ -16,9 +16,9 @@ I am a 19 y/o developer, Currently in the CS degree </br>
 
 ### Languages
 <img align="left" alt="Python" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
-</img>
+<img align="left" alt="C#" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg"/>
 
-### Mostly worked on module
+</img>
 
 
 
