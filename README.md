@@ -4,7 +4,7 @@
 # <h1 align="center"> ABOUT ME </h1>
 
 <p align="center">
-  <a><img src="https://readme-typing-svg.herokuapp.com?color=f2f21b&size=30&center=true&lines=Developer;Experienced+In+Many+Languages"></a>
+  <a><img src="https://readme-typing-svg.herokuapp.com?color=f2f21b&size=30&center=true&lines=Developer;Many+Languages"></a>
 </p>
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=yukkidev">
@@ -17,14 +17,11 @@ I am a 19 y/o developer, Currently in the CS degree </br>
 ### Languages
 <img align="left" alt="Python" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
 <img align="left" alt="C#" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg"/>
+<img align="left" alt="HTML" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
+<img align="left" alt="Java" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
+<img align="left" alt="Css" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
 
 </img>
-
-
-
-<!-- py -->
-<a align="left" href="https://github.com/yukkidev/WallChanger" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
-
 
 
 
@@ -53,7 +50,7 @@ I am a 19 y/o developer, Currently in the CS degree </br>
 
 <p align="center">
   
-  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg' alt='Twitter' height='40'>](https://twitter.com/bojamhorsejack))
+  [<img src='https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg' alt='Twitter' height='40'>](https://twitter.com/bojamhorsejack))
    
 </p>
 
