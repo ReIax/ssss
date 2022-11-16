@@ -25,7 +25,7 @@ I am a 19 y/o developer, Currently in the CS degree </br>
 
 
 
-# <h1 align="center"> 📊Profile Stats </h1>
+<h1 align="center"> 📊Profile Stats </h1>
 
 
 <table width="100%" align="center">
