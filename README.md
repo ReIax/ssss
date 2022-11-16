@@ -21,14 +21,13 @@ I am a 19 y/o developer, Currently in the CS degree </br>
 <img align="left" alt="HTML" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
 <img align="left" alt="Java" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
 <img align="left" alt="Css" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
-</img>
 
 
 
 <h1 align="center"> 📊Profile Stats </h1>
 
 
-<table width="100%" align="center">
+# <table width="100%" align="center">
   <tr>
     <td>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yukkidev&show_icons=true&theme=radical" /> </td>
